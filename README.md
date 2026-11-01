@@ -20,11 +20,11 @@
 
 ---
 
-## 📊 GitHub Statistics
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=gopika47&show_icons=true&theme=default&hide_border=true" height="160" alt="GitHub Stats"/>
-</p>
+### 📊 GitHub Statistics
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=gopika47&show_icons=true&theme=default&hide_border=true)
+
 
 ---
 
