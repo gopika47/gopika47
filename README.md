@@ -1,82 +1,112 @@
 
-<h1 align="center">Hi, I'm Gopika S</h1>
+<h1 align="center">Hi 👋, I'm Gopika S</h1>
 
 <h3 align="center">Computer Science Engineering Student | Aspiring AI Engineer</h3>
 
 <p align="center">
-  Interested in Artificial Intelligence, Machine Learning and Software Development.
+  <i>Building skills in AI, Machine Learning and Software Development.</i>
 </p>
 
 ---
 
-## About Me
+### 👩‍💻 About Me
 
-- Computer Science Engineering Student
-- Interested in AI and Machine Learning
-- Currently learning Deep Learning and Data Structures & Algorithms
-- Practising problem-solving on LeetCode
-- Currently working on Vision2Text
-- Interested in developing practical software solutions
-
----
-
-## Technical Skills
-
-**Programming Languages:** Java, Python, C
-
-**Web Development:** HTML, CSS, JavaScript, React, Node.js
-
-**Database:** MongoDB, MySQL
-
-**AI & Machine Learning:** Deep Learning, LSTM, TensorFlow, PyTorch
-
-**Tools:** Git, GitHub, VS Code
+- 🎓 Computer Science Engineering Student
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 🌱 Currently learning Deep Learning, Java and Data Structures & Algorithms
+- 🔭 Currently working on Vision2Text
+- 💡 I enjoy solving problems and building practical applications
+- 📍 India
 
 ---
 
-## My Projects
+### 📊 GitHub Statistics
 
-### 1. Vision2Text
-An AI-based project focused on converting visual information into text.
-
-### 2. SMS Spam Detection
-A Deep Learning project that classifies SMS messages as spam or legitimate using LSTM.
-
-### 3. Amazon Ratings Prediction
-A Deep Learning project that predicts product ratings using customer review data.
-
-### 4. Passport Verification System
-A full-stack web application developed using React, Node.js, Express and MongoDB.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gopika47&show_icons=true&theme=transparent&hide_border=true" height="160" />
+</p>
 
 ---
 
-## Coding Profiles
+### 🛠️ Skills
 
-**LeetCode:** [gopi_07_2006](https://leetcode.com/u/gopi_07_2006/)
-
-- Achieved 50 Days Badge 2026
-- Practising Data Structures and Algorithms
-- Improving problem-solving skills through consistent practice
-
-**GitHub:** [gopika47](https://github.com/gopika47)
+<table>
+<tr>
+<th>I Know</th>
+<th>Currently Learning</th>
+<th>Interested In</th>
+</tr>
+<tr>
+<td>
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,react,nodejs,mongodb,mysql,git,github,vscode&perline=3" />
+</td>
+<td>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=2" />
+  <br/>
+  Deep Learning<br/>
+  Data Structures & Algorithms
+</td>
+<td>
+  Artificial Intelligence<br/>
+  Machine Learning<br/>
+  Generative AI<br/>
+  Backend Development
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Activity
+### 💻 IDEs and Tools
 
-My GitHub contribution graph below reflects my coding activity and consistency.
+<p>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
+</p>
 
 ---
 
-## Connect With Me
+### 📂 Featured Projects
 
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/)
-- **GitHub:** [github.com/gopika47](https://github.com/gopika47)
-- **LeetCode:** [leetcode.com/u/gopi_07_2006](https://leetcode.com/u/gopi_07_2006/)
-- **Email:** gopika.sasikumar0709@gmail.com
+**1. Vision2Text**
+- AI-based project focused on converting visual information into text.
+
+**2. SMS Spam Detection**
+- Developed an LSTM-based Deep Learning model to classify SMS messages as spam or legitimate.
+
+**3. Amazon Ratings Prediction**
+- Used LSTM-based Deep Learning to predict product ratings from review data.
+
+**4. Passport Verification System**
+- Developed a full-stack application using React, Node.js, Express and MongoDB.
+
+---
+
+### 🏆 Coding Profiles
+
+- **LeetCode:** [gopi_07_2006](https://leetcode.com/u/gopi_07_2006/)
+- **Achievement:** 50 Days Badge 2026
+- **GitHub:** [gopika47](https://github.com/gopika47)
+
+---
+
+### 🤝 Connect With Me
+
+<p>
+  <a href="https://github.com/gopika47">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+📧 **Email:** gopika.sasikumar0709@gmail.com
 
 ---
 
 <p align="center">
-  Learning continuously. Building meaningful projects. Growing every day.
+  <i>Learn. Build. Improve. Repeat.</i>
 </p>
